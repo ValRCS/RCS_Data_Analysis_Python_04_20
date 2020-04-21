@@ -6,3 +6,11 @@
 * Jupyter first steps
 * Git version control
 * Github hosting git repositories
+
+
+## Apr 21
+* Branching
+* Loops
+  * while
+  * for
+  
