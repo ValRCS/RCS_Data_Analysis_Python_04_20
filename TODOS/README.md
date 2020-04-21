@@ -10,6 +10,7 @@
 
 ## Apr 21
 * Branching
+  * if/else
 * Loops
   * while
   * for
