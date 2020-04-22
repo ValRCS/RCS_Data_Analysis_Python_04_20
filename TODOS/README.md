@@ -25,3 +25,9 @@
   * while
   * for
   
+  ## Apr 22
+  * Dictionaries
+  * Looping through Dictionaries
+  
+  * List/Dictionary comprehensions time permitting
+  
