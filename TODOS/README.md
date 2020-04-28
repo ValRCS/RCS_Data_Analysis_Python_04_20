@@ -33,6 +33,10 @@
   
  ## Apr 24
   * Tuples
-  * Sets
+  * Sets (not started)
+  
+  ## Apr 27
+  * Functions
+  * Sets 
   
   
