@@ -5,7 +5,9 @@ Python Data Analysis Course 04.2020
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RCS_Data_Analysis_Python_04_20/master)
 
 ## Introduction in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_04_20/blob/master/Python%20Introduction.ipynb)
+[![Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_04_20/blob/master/Python%20Introduction.ipynb)
+
+[![All Notebooks in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_04_20/blob/master)
 
 ## Course Plan
 
