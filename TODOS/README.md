@@ -36,7 +36,13 @@
   * Sets (not started)
   
   ## Apr 27
+  * First Homework Discussed
   * Functions
-  * Sets 
+  
+  
+  ## Apr 28
+  * Sets Finally
+  
+  
   
   
