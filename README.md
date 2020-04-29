@@ -7,6 +7,7 @@ Python Data Analysis Course 04.2020
 ## Introduction in Google Colab
 [![Introduction Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_04_20/blob/master/Python%20Introduction.ipynb)
 
+## All Notebooks in Google Colab
 [![All Notebooks in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/RCS_Data_Analysis_Python_04_20/blob/master)
 
 ## Course Plan
