@@ -44,6 +44,9 @@
   * Sets Finally
   * JSON Intro
   
+  # May 5
+  * Homework discussion
+  * Processing Text Files
   
   
   
