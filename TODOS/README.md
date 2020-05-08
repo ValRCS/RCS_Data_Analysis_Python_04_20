@@ -48,5 +48,14 @@
   * Homework discussion
   * Processing Text Files
   
+  # May 6
+  * Pangram Discussion
+  * Counting Words, standard library
+  
+  # May 8
+  
+  * NumPy Numerical Library
+   
+  
   
   
