@@ -4,7 +4,7 @@
 
 ## Your code should
 
-Do at least one of the following:
+Do at least **one** of the following:
 
 1. Gathers data (this includes web scraping)
 2. Cleans, and rearranges data
@@ -16,3 +16,5 @@ Do at least one of the following:
 7. Presents full working pipeline in as friendly a form as possible
 
 In real life you'd have to do a bit of all of the above
+
+I really like to see lots of data cleaning and moving as that is what happens the most.
