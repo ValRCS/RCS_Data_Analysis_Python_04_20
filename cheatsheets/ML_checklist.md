@@ -148,5 +148,6 @@ Also monitor your inputs’ quality (e.g., a malfunctioning sensor sending rando
 or another team’s output becoming stale). This is particularly important for online
 learning systems.
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
-1 Jasper Snoek et al., “Practical Bayesian Optimization of Machine Learning Algorithms,” Proceedings of the
+
+Ref. 1 Jasper Snoek et al., “Practical Bayesian Optimization of Machine Learning Algorithms,” Proceedings of the
 25th International Conference on Neural Information Processing Systems 2 (2012): 2951–2959.
