@@ -39,3 +39,5 @@ Ideally, you would put the notebook on your public Github account and submit the
 For sensitive data, keep in on your computer and run notebook from your computer locally. Simply submit the project description then
 
 I really like to see lots of data cleaning and moving as that is what happens the most.
+
+One more example of final project: https://github.com/DolcevitaO/Data-training
