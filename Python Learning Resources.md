@@ -20,6 +20,7 @@ Kind of dry and might not be best for beginners
 * https://www.youtube.com/watch?v=rfscVS0vtbw
 
 ## Python explained in one article
+* https://www.stavros.io/tutorials/python/  - 10min intro
 
 * https://medium.com/fintechexplained/everything-about-python-from-beginner-to-advance-level-227d52ef32d2
 
